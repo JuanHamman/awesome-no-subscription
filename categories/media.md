@@ -53,3 +53,8 @@ Self-hosted music server compatible with Subsonic API clients. Stream your music
 :unlock: Open source (free) | Windows, macOS, Linux
 **Replaces:** Paid music taggers and identification tools
 Automatic music tagger using the MusicBrainz database. Identifies tracks by audio fingerprint, fixes tags and filenames, downloads album art, and organizes music libraries. Supports plugins for extended functionality.
+
+### [Doppelgone](https://doppelgone.app)
+:moneybag: $9.99 one-time (free for unlimited scans and 200 clean-ups) | Chrome (Google Photos, iCloud Photos), Windows, macOS, iOS, Android
+**Replaces:** Buying more cloud storage to hold duplicate photos (Google One 100 GB, $1.99/mo)
+Finds exact duplicates, lookalikes and burst shots in a photo library, keeps the best shot of each set and says why. You approve every removal, and removed photos wait 30 days in the service's own trash. Photos are analysed on your own device. One payment covers up to 3 libraries.
